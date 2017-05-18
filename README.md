@@ -6,7 +6,7 @@ Selection of scripts for simulating AI experiments inspired by biology.
 ## Topics
 
 - 1. [Neural Systems](/neural-systems)
-- 2. Cellular systems
+- 2. [Cellular Automata](/cellular-automata)
 - 3. Artificial evolution
 - 4. Bio-inspired robotics
 - 5. Evolutionary robotics
