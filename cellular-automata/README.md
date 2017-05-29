@@ -34,3 +34,8 @@ Generation 2:
 Final result:
      1     0     0     0     1     0
 ```
+
+
+## Game of Life
+
+- See a [JS implementation](http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/) of the Game of Life.
