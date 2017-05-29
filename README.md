@@ -5,9 +5,11 @@ Selection of scripts for simulating AI experiments inspired by biology. Based on
 
 ## Topics
 
-- 1. [Neural Systems](/neural-systems)
-- 2. [Cellular Automata](/cellular-automata)
-- 3. [Bio-inspired robotics](/bio-inspired-robotics)
+1. [Neural Systems](/neural-systems)
+2. [Cellular Automata](/cellular-automata)
+3. [Bio-inspired robotics](/bio-inspired-robotics)
+4. [Embodiment Morphological Computation](/morphological-computation)
+6. [Evolutionary Robotics](/evolutionary-robotics)
 
 - x. [Embodiment Morphological Computation](/morphological-computation)
 
