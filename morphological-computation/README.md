@@ -22,7 +22,7 @@ Try and run main.m, then you will have to install the following:
 The nodes (masses) are connected by nonlinear springs. The red nodes are fixed in order to hold the network in place. The green nodes are randomly chosen inputs nodes, which receive the input in form of horizontal forces scaled by randomly initiated weights.
 
 
-![Graph](volterra-output/performance-comparision.png "Performance Comparision")
+![Graph](volterra-output/performance-comparison.png "Performance Comparision")
 ![Graph](volterra-output/graph.png "Graph")
 
 ```
