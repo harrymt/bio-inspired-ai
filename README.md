@@ -11,6 +11,7 @@ Selection of scripts for simulating AI experiments inspired by biology. Based on
 4. [Embodiment Morphological Computation](/morphological-computation)
 5. [Artificial Evolution](/artificial-evolution)
 6. [Evolutionary Robotics](/evolutionary-robotics)
+7. [Swarm Robotics](/swarm-robotics)
 
 
 ## Roadmap
