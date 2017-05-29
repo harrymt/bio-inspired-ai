@@ -9,6 +9,7 @@ Selection of scripts for simulating AI experiments inspired by biology. Based on
 - 2. [Cellular Automata](/cellular-automata)
 - 3. [Bio-inspired robotics](/bio-inspired-robotics)
 
+- x. [Embodiment Morphological Computation](/morphological-computation)
 
 ## Roadmap
 
