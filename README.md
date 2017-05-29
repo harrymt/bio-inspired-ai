@@ -1,6 +1,6 @@
 # Bio-Inspired AI
 
-Selection of scripts for simulating AI experiments inspired by biology.
+Selection of scripts for simulating AI experiments inspired by biology. Based on [Bio-Inspired Artificial Intelligence: Theories, Methods, and Technologies](http://dl.acm.org/citation.cfm?id=1457317).
 
 
 ## Topics
